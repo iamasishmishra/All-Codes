@@ -1,0 +1,19 @@
+Imp Qstns
+---------
+
+1. What is react and explain the features of react?
+2. Types of components and difference?
+3. Props? Explain ?
+4. What is Props Children and props Drilling Explain?
+5. Can we send the data from child component to parent component explain?
+6. What are states and Explain?
+7. How to make function based Component State full? Explain?
+8. Explain the working procedure of useState?
+9. Write a program for inc dec and reset by useState?
+10. Explain the advantage of useState?
+11. What is reference? Explain useRef?
+12. How many ways we can handle forms or Types of form handling? Exlain?
+13. What is virtual dom explain?
+14. How to avoid propsDrilling Explain one of them ?
+15.  
+

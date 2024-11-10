@@ -1,0 +1,19 @@
+.viewproduct{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+
+.viewproduct .content{
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+}
+
+.viewproduct img{
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+}

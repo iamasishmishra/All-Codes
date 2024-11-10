@@ -1,0 +1,45 @@
+/* Additem container */
+.additem {
+    margin: 20px auto;
+    padding: 20px;
+    width: 400px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Additem form label */
+.additem label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+/* Additem form input and select */
+.additem input[type="text"],
+.additem input[type="number"],
+.additem textarea,
+.additem select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+/* Additem form button */
+.additem button {
+    width: 90%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Additem form button hover */
+.additem button:hover {
+    background-color: #0056b3;
+}

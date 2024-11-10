@@ -1,0 +1,33 @@
+/* AdminNavbar.css */
+
+.AdminNavbar {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  .logo h1 {
+    font-size: 24px;
+    margin: 0;
+    color: orange;
+  }
+  
+  .logo h1 span {
+    color: #e14f23; /* or any other color you prefer */
+  }
+  
+  .options a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+    transition: color 0.3s ease;
+    margin-right: 70px;
+  }
+  
+  .options a:hover {
+    color: #FF5722; /* Change color on hover */
+  }
+  

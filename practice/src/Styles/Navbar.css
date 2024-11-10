@@ -1,0 +1,20 @@
+.navbar .heading{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px;
+    /* border-bottom: 1px solid white; */
+    /* box-shadow: 0px 0px 10px grey; */
+}
+
+.heading .leftside{
+    margin-right: 690px;
+}
+
+.heading .rightside a{
+    margin-right: 50px;
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+}

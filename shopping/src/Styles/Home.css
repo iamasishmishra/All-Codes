@@ -1,0 +1,45 @@
+.HomePage {
+    text-align: center;
+    padding: 50px;
+  }
+
+
+  .mainbox{
+    display: flex;
+    /* align-items: center; */
+    margin-left: 500px;
+    border: 2px solid black;
+    width: 240px;
+  }
+
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 30px;
+    color: #333;
+  }
+  
+  h3 {
+    font-size: 1.2em;
+    color: #c41010;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  a:hover {
+    color: #666;
+  }
+  
+  img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    transition: transform 0.3s ease;
+  }
+  
+  img:hover {
+    transform: scale(1.1);
+  }
+  

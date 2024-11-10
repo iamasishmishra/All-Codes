@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1px solid transparent;
+    height: 80px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+.navbar .rightside a{
+    text-decoration: none;
+    margin-right: 40px;
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(215, 9, 9);
+}
+.navbar .leftside, .navbar .rightside{
+    margin-left: 90px;
+}
